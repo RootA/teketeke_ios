@@ -1,0 +1,6 @@
+framework module Pods_TekeTeke_V2Tests {
+  umbrella header "Pods-TekeTeke_V2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
